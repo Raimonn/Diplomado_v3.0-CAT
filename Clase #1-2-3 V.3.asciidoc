@@ -1,226 +1,227 @@
 
 
-# Clase #*1*
+# Tema #*1*
 
-# El Sistema Monetario
+# El Sistema Monetari
 
-### Actividad “Introducción al dinero”
+### Activitat “Introducció als diners”
 
-## ¿Qué problemas existen con el dinero de hoy?
+## ¿Quins problemes hi ha amb els diners d'avui?
 
-Estamos programados para resistir los desafíos de la vida y progresar. Es un proceso humano natural el querer superarnos, llevar una vida productiva, creativa y valiosa, pero:
+Estem programats per resistir els desafiaments de la vida i progressar. És un procés humà natural voler superar-nos, portar una vida productiva, creativa i valuosa, però:
 
-- Vivimos en un mundo donde hay mucho para pocos, y muy poco muchos.
-    - Los individuos de menores recursos económicos:
-        - no cuentan con las mismas oportunidades. Porqué?
-            - no tienen acceso a los mismos niveles de educación,
-            - no pueden acceder a los créditos necesarios comenzar sus negocios.
+- Vivim en un món on hi ha abundància per a pocs, i molt poc per a molts.
+    - Les persones de menors recursos econòmics:
+        - no compten amb les mateixes oportunitas. Per què?
+            - no tenen accés als mateixos nivells de educació,
+            - no poden accedir als crèdits necessaris per a començar els seus negocis. 
 
-Para reducir la pobreza y estimular el bienestar social, es importante:
+Per reducir la pobresa i estimular el benestar social, és important:
 
-- mejorar el acceso a la educación financiera,
-- desarrollar la capacidad de administrar dinero,
-- aprender a utilizar nuevas tecnologías de manera responsable
-- planear para el futuro.
+- millorar l'accés a l'educació financera,
+- desenvolupar la capacitat d'administrar els diners,
+- apendre a utilitzar les noves tecnologies de manera responsable
+- planejar per al futur.
 
-Veremos que Bitcoin es una herramienta y un tipo de dinero:
+Veurem que el Bitcoin és una eina i un tipus de diners:
 
-- transparente, descentralizado, global, digital, barato, privado, programable, de fácil y rápido acceso, que puede ayudar a remediar estos problemas.
+- transparent,descentralitzat, global, digital, barat, privat, programable, de fàcil i ràpid accés, que pot ajudar a resoldre aquests problemes.
 
-**Consecuencias del desarrollo de nuestra civilización**
+**Conseqüències del desenvolupament de la nostra civilització**
 
-Las personas siempre han necesitado alguien que financie sus aspiraciones del futuro.
+Les persones sempre han necessitat algú que financiï les seves aspiracions de futur.
 
-- Formas de intercambiar salarios, tiempo, y energía por depósitos de valor.
+- Formes d'intercanviar salaris, temps i energia per dipòsits de valor.
 
-Si no hubiésemos evolucionado, habríamos quedado reducidos a una economía de trueque. 
+Si no haguéssim evolucionat, hauríem quedat reduïts a auna economia de bescanvi. 
 
-- Cada cosa que alguien quisiera comprar tendría que ser canjeada por algo que esa persona pudiera proveer.
+- Cada cosa que algú volgués comprar hauria de ser bescanviada per alguna cosa que aquesta persona pogués proveir.
 
-El desarrollo permanente ha revolucionado las sociedades y la interacción global
+El desenvolupament permanent ha revolucionat les societats i la interacció global.
 
-- En general, con un interés común de mejorar la calidad de vida de futuras civilizaciones
-    - A medida que la tecnología avanza y aumenta la productividad, debería(n)(mos):
-        - bajar los precios de forma natural
-        - fortalecerse la moneda
-        - poder comprar más por menos.
-    - Pero sucede lo contrario
-        - Los precios suben, las monedas se debilitan y compramos menos por más
+- Generalment, amb un interès comú de millorar la qualitat de vida de les futures civilitzacions.
+    - A mesura que la tecnologia avança i augmenta la productivitat, hauríem de:
+        - baixar els preus de manera natural
+        - enfortir la moneda
+        - poder comprar més per menys diners.
+    - Però passa el contrari
+        - Els preus pugen, les monedes es debiliten i comprem menys per més diners.
     
-- ¿Cómo hemos llegado hasta aquí?
-- ¿Cómo, porqué, y para qué se crea más dinero y cuales son las consecuencias?
-- ¿Qué hay escondido tras los sistemas financieros hoy?
-- *¿Cuál es el peligro invisible de la pérdida de valor del dinero?*
-- *¿Cómo podemos darle valor adicional a nuestros ahorros*?
+- Com hem arribat fins aquí?
+- Com, perquè i per a què es creen més diners i quines són les conseqüències?
+- Què hi ha amagat darrere els sistemes financers?
+- *Quin és el perill invisible de la pèrdua de valor dels diners?*
+- *Com podem donar valor addicional als nostres estalvis*?
 
-Hoy, sólo los bancos y los gobiernos tienen el poder de emitir dinero en una economía.
+Avui, només els bancs i els governs tenen el poder d'emetre diners en una economia.
 
-El dinero simplemente no se acaba. Los gobiernos imprimen la cantidad de dinero necesaria para financiar sus gastos públicos, inyectar recursos en la economía y retirarlos después en forma de impuestos. 
+Els diners simplemnt no s'acaben. Els governs imprimeixen la quantitat de diners necessà. 
+ria per finançar les despeses públiques, injectar recursos a l'economia i retirar-los despré
+s en forma d'impostos.
 
-El problema es que como humanidad, gastamos más de lo que generamos. Como consecuencia:
+El problema és que com a humanitat gastem més del que generem. Com a conseqüència:
 
-- pérdida de confianza en el valor del dinero y en el sistema bancario moderno.
-- inestabilidad económica y política mundial e incluso, trae guerras. Porqué?
+- pèrdua de confiança en el valor dels diners i en el sistema bancari modern.
+- inestabilitat econòmica i política mundial i fins i tot, guerres. Per què?
 
-### **Nuestras necesidades son infinitas pero nuestros recursos escasos.**
-
-
-
-**La Modernización** 
-
-> ‘*Se ****debe confiar en los bancos para que retengan nuestro dinero y lo transfieran electrónicamente, pero lo prestan en oleadas de burbujas crediticias con apenas una fracción en reserva.’ –Satoshi Nakamoto*
+### **Les nostres necessitats són infinites, però els nostres recursos escassos.**
 
 
-El negocio bancario consiste en: 
 
-- La compra de dinero en forma de depósitos de los ahorradores, y su posterior venta mediante préstamos a aquellos que lo necesitan.
-- Su beneficio, como en cualquier otro negocio, proviene de:
-    - Un mayor precio de venta que el de compra-
-        - la tasa de interés de el dinero que presta es mayor a la que paga a los ahorradores.
-    - Pero la clave del poder bancario ****reside en la posibilidad de:
-        - vender algo que no es de su propiedad**,** sino del ahorrador correspondiente.
-- Los gobiernos controlan la emisión de sus monedas
+**La Modernizació** 
+
+> ‘S'ha de confiar en els bancs perquè retinguin els nostres diners i els transfereixin electrònicament, però els presten en onades de bombolles creditícies amb només una fracció en reserva.’ –Satoshi Nakamoto*
+
+
+El negoci bancari consisteix a: 
+
+- La compra de diners en forma de dipòsits dels estalviadors, i la posterior venda mitjançant préstecs a aquells que els necessiten.
+- El seu benefici, com en qualsevol altre negoci, prové de:
+    - Un major preu de venda que el de compra.
+        - La taxa d'interès dels diners que presta és més gran que la que paga als estalviadors.
+    - Però la clau del poder bancari resideix en la possibilitat de:
+        - Vendre una cosa que no és de la seva propietat, sinó de l'estalviador corresponent.
+- Els governs controlen l'emissió de les monedes. Intenten solucionar cicles econòmics problemàtics.
     - intentan solucionar ciclos económicos problemáticos
-- Las economías imprimen más dinero en momentos de recesión
-    - estimulan el crecimiento a corto plazo
-    - disminuyen el desempleo a corto plazo
-- La necesidad del papel moneda físico ha perdido su importancia
-    - La banca por internet ha facilitado el uso del crédito
+- Les economies imprimeixen més diners en moments de recessió:
+    - Estimulen el creixement a curt termini.
+    - Redueixen la desocupació a curt termini.
+- La necessitat dels bitllets físics ha perdut importància.
+    - La banca per internet ha facilitat l'ús del crèdit.
 
 
-💡 **Los Beneficios**
+💡 **Els beneficis**
 
-- Facilitan transacciones inmediatas y planeación hacia el futuro
-- Registran los movimientos de los ahorradores y deudores en bases de datos centralizadas
-- Actualizan constantemente las salidas y entradas de sus usuarios
-- Verifican la legitimidad de las cuentas
-- Si el dinero desaparece en una cuenta por una de múltiples razones, es reemplazable.
-    - Cuentan con pólizas de seguro en caso de ser víctimas de un robo.
+- Faciliten transaccions immediates i planificació cap al futur.
+- Registren tots els moviments dels estalviadors i deutors en bases de dades centralitzades.
+- Actualitzen constantment les sortides i entrades dels usuaris.
+- Verifiquen la legitimitat dels comptes
+- Si els diners desapareixen en un compte per alguna raó, són reemplaçables.
+    - Compten amb pòlisses d'assegurança en cas de ser víctimes d'un robatori.
 
 
-💡 **Los Costos.**
+💡 **Els costs.**
 
-- El sistema bancario tiene una única fuente de falla, es centralizado y se puede manipular fácilmente.
+- El sistema bancari té un únic punt dèbil, és centralitzat i es pot manipular fàcilment.
    
     
-- Los gobiernos pueden:
-    - expandir y contraer libremente la oferta monetaria
-    - confiscar cuentas bancarias,
-    - bloquear retiros sin previo aviso,
-    - enfrentar graves problemas técnicos o piratería informática,
-    - eliminar algunos servicios básicos,
-    - maniobrar las tasas de intereses y los impuestos
-    - La inflación alta y tasas de interés negativas causan que el valor del dinero disminuya
+- Els governs poden:
+    - Expandir i contraure lliurement l'oferta monetària.
+    - Confiscar comptes bancaris.
+    - Bloquejar reintegraments sense previ avís.
+    - Patir greus problemes tècnis o pirateria informàtica.
+    - Eliminar alguns serveis bàsics.
+    - Maniobrar les taxes d'interessos i els impostos.
+    - La inflació alta i les taxes d'interès negatives fan que el valor dels diners disminueixi.
 
 
-> “Un banco es un lugar en el que prestan a usted un paraguas cuando hace buen tiempo y se lo piden cuando empieza a llover.” (Robert Lee Frost)
+> “Un banc és un lloc on et presten un paraigua quan fa bon temps i te'l demanen quan comença a ploure.” (Robert Lee Frost)
 
-### Definición del Dinero
+### Definició dels diners:
 
-Aceptamos pagos en efectivo, cheque y/o tarjeta de crédito a cambio de bienes y servicios
+Acceptem pagaments en efectiu, xec i/o targeta de crèdit a canvi de béns i serveis.
 
-- *No* nos detenemos a pensar que:
-    - todos estos medios de intercambio son únicamente promesas de pago.
+- No ens aturem a pensar que tots aquests mitjans d'intercanvi només són promeses de pagament.
 
-¿Qué es el dinero? https://youtu.be/2yCIKkq8gKA
+Què són els diners? https://youtu.be/2yCIKkq8gKA
 
-**Funciones del Dinero**
+**Funcions dels Diners**
 
-El dinero cumple **tres funciones**: 
+Els diners compleixen tres funcions: 
 
-1. Depósito de valor que se puede invertir, ahorrar, solicitar o prestar 
-2. medio de intercambio para pagar bienes y servicios 
-3. unidad de medida que permite comparar los precios entre productos o servicios.
+1. Dipòsit e valor que es pot invertir, estalviar, sol·licitar o prestar. 
+2. Mitjà d'intercanvi per pagar béns i serveis. 
+3. Unitat de mesura que permet comparar els preus entre productes o serveis.
 
-Depósito de Valor
+Dipòsit de Valor:
 
-- **Definición:** Tiende a mantener su valor a través del tiempo.
+- **Definició:** Tendeix a mantenir el seu valor a través del temps.
 
-Medio de intercambio
+Mitjà d'intercanvi:
 
-- **Definición:** Elimina el complejo sistema de trueque permitiendo el intercambio de bienes y el pago de deudas con mayor eficiencia.
+- **Definició:** Elimina el complex sistema de bescanvi permetent l'intercanvi de béns i el pagament de deutes amb més eficiència.
 
-Unidad de medida
+Unitat de mesura:
 
-- **Definición:** Permite que exista un patrón universal de un sistema de precios para expresar el valor de bienes y servicios.
-
-
-**Características del Dinero.**
-
-El dinero puede tomar muchas formas. Entre más  de estas características demuestra un tipo de dinero, mejor dinero es.
-
-**Durabilidad** El dinero debe resistir el deterioro físico y perdurar en el tiempo. Debe ser capaz de circular en la economía en un estado aceptable y reconocible.
+- **Definició:** Permet que hi hagi un patró universal d'un sistema de preus per expressar el valor de béns i serveis.
 
 
-**Uniformidad o fungibilidad** - Cada unidad de dinero debe ser exactamente igual a cualquier otra. 
+**Característiques dels diners:**
+
+Els diners poden pendre moltes formes. Com més caracterísiques d'aquestes demostra un tipus de diners, serà un tipus de diners més vàlid.
+
+**Durabilitat** Els diners han de resistir el deteriorament físic i perdurar en el temps. Ha de ser capaç de circular a l'economia en un estat acceptable i reconeixible.
 
 
-**Portabilidad** Tiene que ser fácil de trasladar de un lado a otro. Debe poder acumular mucho valor en poco peso.
+**Uniformitat o fungibilitat** - Cada unitat de diners ha de ser exactament igual a qualsevol altra. 
 
 
-**Divisibilidad** Debe servir para adquirir bienes caros y baratos y  ser fraccionado sin perder su valor.
+**Portabilitat** Ha de ser fàcil de traslladar de banda a banda. Ha de poder acumular molt valor en poc pes.
 
 
-**Reconocibilidad** o **Aceptabilidad**- El bien que se utilice tiene que ser reconocido por todos como dinero.
+**Divisibilitat** Ha de servir per adquirir b´nes cars i barats i ser fraccionat sense perdre valor.
 
 
-**Escasez** El valor del dinero depende de la oferta y la demanda. Mientras más dinero se ofrezca y menos se necesite, su valor será menor**.** 
+**Reconeixibilitat o Acceptabilitat**- El bé que s'utilitzi ha de ser reconegut per tots com a diners.
 
 
-**DINERO CONVENCIONAL y ACTIVOS MONETARIOS** 
+**Escassetat** El valor dels diners depen de l'oferta i la demanda. Com més diners s'ofereixin i menys es necessitn el seu valor serà menor.
 
-- El **dinero convencional** es el dinero de uso general en un país en particular.
-    - Efectivo en circulación, depósitos bancarios y reservas del banco central.
-    - La mayoría es crédito o entradas electrónicas en los libros contables.
-    - **NO NECESARIAMENTE** guarda ****su **VALOR** en el **tiempo**
+
+**DINERS CONVENCIONALS I ACTIUS MONETARIS** 
+
+- Els **diners convencionals** són els diners d'ús general en un país en particular.
+    - Efectiu en circulació, dipòsits bancaris i reserves del banc central.
+    - La majoria és crèdit o entrades electròniques als llibres contables.
+    - **NO NECESSÀRIAMENT** guarda **** el seu **VALOR** en el **temps**
     
-- Los **ACTIVOS MONETARIOS** generalmente **SI** guardan ****su **VALOR** en el **tiempo**.
+- Els **ACTIUS MONETARIS** generalment **SI** que guarden ****el seu **VALOR** en el **temps**.
 
-**Tipos de dinero:**
+**Tipus de diners:**
 
-- Dinero **Mercancía**:
-    - difíciles de extraer,  escasos
-    - atractivos como reserva de valor
-    - oro y plata perduraron como buen dinero durante miles de años
+- Diners **Mercaderies**:
+    - Difícils d'extreure, escassos.
+    - Atractius com a reserva de valor.
+    - L'or i la plata van perdurar com a bons diners durant milers d'anys.
     
-    **Activo Monetario** 
+    **Actius Monetaris** 
     
-- **Representativo**:
-    - billetes respaldados en oro o plata
-    - cada billete se intercambia por su valor equivalente en metal
-    - En la historia moderna, el patrón oro duró hasta 1971.
+- **Representatius**:
+    - Bitllets recolzats en or o plata.
+    - Cada bitllet s'intercanvia pel valor equivalent en metall.
+    - A la història moderna, el patró or va estar vigent fins al 1971.
     
-    **Activo Monetario (Inicialmente)**
+    **Actiu Monetari (Inicialment)**
     
-    **Dinero Convencional(Al pasar del tiempo-**si se incrementa la oferta monetaria**)** 
+    **Diners convencionals (En passar el temps -**si s'incrementa l'oferta monetària**)** 
     
-- **Fiat o moneda fiduciaria**:
-    - Implementada como monopolio y emitida a voluntad por un gobierno
-    - no está respaldada por un producto físico
-    - no tiene valor intrínseco; su valor depende de:
-        - la relación entre oferta y demanda
-        - la estabilidad del gobierno emisor.
+- **Fiat o moneda fiduciària**:
+    - Implementada com a monopoli i emesa a voluntat per un govern.
+    - No està recolzada per un producte físic.
+    - No té valor intrínsec; el seu valor depèn de:
+        - La relació entre oferta i demanda.
+        - L'estabilitat del govern emissor.
     
-    **Dinero Convencional (**El fiat digital tiene más riesgo de contraparte que el físico**)**
+    **Diners convencionals (**El fiat digital té més risc de contrapart que el físic.o**)**
     
 - **Bitcoin**:
-    - moneda digital escasa
-    - opera de manera descentralizada
-    - se basa en software y criptografía “persona a persona” para realizar movimientos.
+    - Moneda digital escassa.
+    - Opera de manera descentralitzada.
+    - Es basa en programari i criptografia “persona a persona” per fer moviments.
     
-    **Activo Monetario**
+    **Actiu Monetari**
     
 
-**Ejercicio Práctico.**  Marque con una X si el artículo cumple con la característica indicada. Cuál articulo escogería como dinero? 
+**Exercici Pràctic.**  Marqueu amb una X si l'article compleiz amb la característica indicada. Quin article escollirieu com a diners? 
 
-(No llenemos la última columna ‘Bitcoin’ hasta completar el cuarto capítulo.)
+(No ompliu la darrera columna ‘Bitcoin’ fins a completar el quart tema.)
 
-Es un buen activo monetario? 
+És un bon actiu monetari? 
 
-Un dinero útil debe ser portátil, divisible, duradero, escaso, reconocible y fungible
+Uns diners útils han de ser portàbles, divisibles, duradors, escassos, reconeixibles i fungibles.
 
-**Actividad o Tarea-Las Uvas Secas Cómo Dinero** 
-
+**Exercici: Les panses son bons diners?** 
+% Fi de traducció%
 # Clase #**2**
 
 # Historia, Evolución y Devaluación del Dinero
