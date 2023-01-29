@@ -429,55 +429,54 @@ Recurs:*"Causas de la Inflación"*, vídeo, Banc de la República de Colòmbia.
     
     Recurs: *"Causas de la Inflación",* Vídeo, Banc de la República de Colòmbia
     
-    1. **Inflaci de costs o d'oferta**
-    - Augmenta el precio de los insums.
+    1. **Inflació de cost o d'oferta**:
+    - Augmenta el preu dels insums (matèries primeres i mà d'obra).
         - Causes:
-            - Regulaciones gubernamentales, guerras, sequías, dificultades en la cadena de suministro y otras situaciones.
-            - Alza en las tazas de impuestos incrementan el costo de las materias primas
-            - Los trabajos especializados se vuelven más costosos
-                - falta de habilidades o recursos en una sociedad
-            - Las nuevas tecnologías suelen ser muy caras
-                - con el tiempo disminuyen el costo de los productos.
-    1. **Inflación de demanda**
-        1. La oferta de bienes no alcanza a cubrir la demanda
-        2. Debido a una reducción de impuestos o reducción en las tasas de intereses en los préstamos) 
-            - se crea un aumento en el ingreso disponible...
-            - empieza a circular en el mercado el exceso…
-            - se compite por conseguir los mismos bienes con más dinero…
-                - esto hace subir los precios...
-        - eventualmente aumenta la oferta, y luego los precios vuelven a bajar.
+            - Regulacions governamentals, guerres, sequeres, dificultats a la cadena de subministrament i altres situacions.
+            - L'augment de les taxes d'impostos incrementa el cost de les matèries primeres.
+            - Els treballs especialitzats es tornen més costosos.
+                - Manca d'habilitats o recursos en una societat.
+            - Les noves tecnologies solen ser molt cares.
+                - Amb el temps disminueix el cost dels productes.
+    1. **Inflació de la demanda**:
+        1. La oferta de béns no arriba a cobrir la demanda.
+        2. A causa d'una reducció d'impostos o reducció en les taxes d'interès dels préstecs. 
+            - Es crea un augment en l'ingrés disponible...
+            - Comença a circular al mercat l'excés…
+            - Es competeix per aconseguir els mateixos béns amb més diners…
+                - Això fa pujar els preus...
+        - Eventualment augmenta l'oferta i després els preus tornen a baixar.
     
-    1. **Inflación por políticas gubernamentales**
-    - El gobierno financia el déficit con emisión
-        - ¿Son auténticos los trabajos/proyectos que se crean a través de la inflación?
-        - ¿Por qué es importante para los gobiernos que la gente compre cosas con su dinero?
-        - ¿Que tipos de bienes compramos como sociedad cuando existe mas dinero en la economía? Son bienes esenciales para vivir?
-        - Qué sucede cuando las tasas de impuestos suben con más  velocidad que el incremento en los salarios en una economía?
+    1. **Inflació per polítiques governamentals**
+    - El govern finaná el dèficit amb emissió.
+        - Són autèntics els treballs/projectes que es creen a través de la inflació?
+        - Per què és important per als governs que la gent compri coses amb els seus diners?
+        - Quin tipus de béns comprem com a societat quan hi ha més diners a l'economia? Són béns essencials per viure?
+        - Què passa quan les taxes d'impostos pugen amb més velocitat que l'increment dels salaris a una economia?
     
-    - La inflación significa que el trabajo que hiciste hace un tiempo tiene menor valor que  el de hoy.
-        - El año pasado te pagaron $10; compraste 10 almuerzos a $1 cada uno.
-        - Decidiste guardarlos.
-        - Hoy hay :
-            - más dinero en la economía circulando
-            - más gente queriendo comprar almuerzos
-            - la misma cantidad de almuerzos a la venta
-            - el precio sube a $2 por almuerzo.
-        - Sólo podrás comprar 5 almuerzos con los $10 dólares que ahorraste.
-        - En teoría, esto no tiene sentido. Si pones 8 horas de trabajo, esa realidad no cambia aunque hayan pasado 10 años. Esa energía debería poder quedarse contigo.
-        - Podríamos decir que la inflación es un tipo de robo de valor.
+    - La inflació significa que la feina que vas fer fa un temps té menys valor que la d'avui.
+        - L'any passat et van pagar 10 dòlars; vas comprar 10 dinars a 1 dòlar cadascun.
+        - Vas decidir guardar-los.
+            - Avui hi ha, més diners a l'economia circulant.
+            - Més gent volent comprar dinars.
+            - La mateixa quantitat de dinars a la venda.
+            - El preu puja a $2 per dinar.
+        - Només podràs comprar 5 dinars amb els $10 que vas estalviar.
+        - En teoria, això no té sentit. Si poses 8 hores de feina, aquesta realitat no canvia encara que hagin passat 10 anys. Aquesta energia s'hauria de poder quedar amb tu.
+        - Podríem dir que la inflació és un tipus de robatori de valor.
         
 
-En el siguiente gráfico podemos ver la perdida de valor del dolar Americano. 
+Al següent gràfic podem veure la pèrdua de valor del dólar americà. 
 
 
-Recurso: 
+Recurs: 
 
-*Declining purchasing power of the US dollar strengthens Bitcoin,* https://cryptopotato.com/is-there-a-pattern-between-usd-dow-jones-and-bitcoin/, Toju Ometoruwa
+*La disminució del poder adquisitiu del dòlar del Estats Units reforça el Bitcoin,* https://cryptopotato.com/is-there-a-pattern-between-usd-dow-jones-and-bitcoin/, Toju Ometoruwa
 
-- **Inflación a traves del tiempo**
-    - La inflación entre 1970 y 2020 fue mucho mayor que la del período de 50 años anterior, 1920 a 1970.
-    - Que pasará si seguimos en la misma trayectoria?
-    - Quien tuvo un castigo económico mayor, la generación de tus abuelos o la de tus padres?
+- **La inflació a través del temps**
+    - La inflació entre 1970 i 2020 va ser molt més gran que la del període de 50 anys anterior, 1920 a 1970.
+    - Què passarà si seguim a la mateixa trajectòria?
+    - Qui va tenir un càstig econòmic més gran, la generació dels teus avis o la dels teus pares??
     
     - $1 de 1920 a 1970:
         
@@ -487,139 +486,139 @@ Recurso:
 
  
 
-Crees que los salarios subieron a la par de los precios? 
+Creus que els salaris van pujar al mateix ritme que els preus? 
 
 
-Dicho desde otro punto de vista, lo que hoy (2022) compramos con $100, nos hubiera costado aproximadamente $7 en 1920. 
+Dit des d'un altre punt de vista, el que avui (2022) comprem amb $100, ens hauria costat aproximadament $7 el 1920. 
 
-La inflación causa pérdida en el p**oder adquisitivo:** 
+La inflació causa pèrdua en el poder adquisitiu:** 
 
-- los aumentos en los salarios son menores que los aumentos en los precios de la comida
-- los individuos se ven obligados a reducir su consumo
-- se disminuye la capacidad de compra.
+- Els augments en eles salaris són menors que els augments en els preus del menjar.
+- Els individus es veuen obligats a reduir-ne el consum.
+- Disminueix la capacitat de compra.
 
-Para mayor visibilidad y análisis de otros periodos puedes ir aquí:
+Per a més visibilitat i anàlisi d'altres períodes podeu anar aquí:
 
 https://www.wolframalpha.com/input?i=100+1970+usd+in+2020
 
 
-### Vigilancia
+### Vigilància
 
-Los gobiernos imponen regulaciones con el fin de encontrar y atrapar personas que lavan dinero o hacen otro tipo de transacciones ilegales. 
+Els governs imposen regulacions per tal de trobar i atrapar persones que renten diners o fan un altre tipus de transaccions il·legals. 
 
-- La vigilancia es un arma de doble filo.
-- Cuanto más fraude ocurra, más vigilancia por parte del Estado y compañías privadas
-    - invaden nuestra privacidad gracias al progreso tecnológico
-    - controlan nuestros movimientos en las redes sociales y económicas
-    - Intercambio de datos personales a cambio del disfrute de ciertos servicios.
-- Consecuencias:
-    - estafas digitales, acoso en línea, extorsión, usurpación de identidad y otros problemas que ponen en peligro la privacidad y la seguridad de los usuarios.
-    - Nuestras compras con tarjetas se registran, analizan y se vigilan
-        - a menos que compremos bienes y servicios en efectivo
-- Si alguien consigue tu contraseña de tu banca en internet, o hackea los servidores centralizados, tendría acceso a toda la información.
+- La vigilància és un arma de doble tall.
+- Com més frau hi hagi, més vigilància per part de l'Esta i companyies privades.
+    - Envaeixen la nostra privacitat gràcies al progés tecnològic.
+    - Controlen els nostres moviments a les xarxes socials i econòmiques.
+    - Intercanvi de dades personals a canvi de gaudir de certs serveis.
+- Conseqüències:
+    - Estafes digitals, assetjament en línia, extorsió, usurpació d'identitat i altres problemes posen en perill la privacitat i la seguretat dels usuaris.
+    - Les nostres compres amb targetes es registren, s'analitzen i es vigilen.
+        - A menys que comprem béns i serveis en efectiu.
+- Si algú aconsegueix la teva contrasenya de la teva banca a internet, o pirateja els servidors centralitzats, tindria accés a tota la informació.
 
-💡 Necesitamos un dinero que resguarde nuestra privacidad y no comparta toda nuestra información personal con gobiernos y empresas privadas.
+💡 Necessitem uns diners que protegeixin la nostra privacitat i no comparteixi tota la nostra informació personal amb governs i empreses privades.
 
 
 
-¿Cómo nos vigilan en internet?
+Com ens vigilen a internet?
 https://youtu.be/-sWgOuFIaws
 
-### Restricción
+### Restricció
 
-- Es que es difícil y costoso mover dinero entre naciones.
-- Los gobiernos controlan los intercambios de divisas, aunque se haga entre dos personas conocidas.
+- És que és difícil i costós moure diners entre nacions.
+- Els governs controlen els intercanvis de divises, encara que es faci entre dues persones conegudes.
 
-Aquí hay una lista de políticas y formas en que esto puede suceder:
+Aqui hi ha una llista de polítiques i formes en què això pot passar:
 
-- **Políticas gubernamentales**
-    - Control de Capitales: Se restringe la cantidad de dinero que sus ciudadanos pueden transferir, cambiar o llevar al extranjero.
-        - Ejemplos:
-            - Argentina, Rusia, Indonesia, Cuba y China
-            - El ciudadano promedio de China, solo puede convertir hasta $ 50.000 de renminbi (aprox. $8.000 USD) cada año.
+- **Poltiques governamentals**
+    - Control de capitals: es restringeix la quantitat de diners que els ciutadans poden transferir, canviar o portar a l'estranger.
+        - Exemples:
+            - Argentina, Rússia, Indonèsia, Cuba i la Xina
+            - El ciutadà mitjà de la Xina només pot convertir fins a 50.000 de renminbi (aprox. $8.000 USD) cada any.
     
-    > “*La única solución que hemos encontrado en Cuba es Bitcoin. Estamos ahora mismo en las mismas igualdades, la misma posibilidad de competir con cualquier otro país, porque tenemos acceso pleno, libre, sin sanciones ni prohibiciones a esa tecnología que nos permite crear, crecer y conectar.”*
+    > “*L'única solució que hem trobat a Cuba és Bitcoin. Estem ara mateix ales mateixes igualtats, la mateixa possibilitat de competir amb qualsevol altre país, perquè tenim accés ple, lliure, sense sancions ni prohibicions a aquesta tecnologia que ens permet crear, créixer i connectar.”*
     > 
     
-       *Eric García Cruz, emprendedor cubano y entusiasta de Bitcoin.*
+       *Eric García Cruz, emprenedor cubà i entusiasta del Bitcoin.*
     
-- **Políticas bancarias**
-    - Los bancos tienen límites sobre la cantidad de efectivo que se puede retirar de una cuenta, o tienen un máximo que se puede transferir.
-    - La mayoría de estas transacciones tienen comisiones
-        - Grecia, tras la crisis de 2015, sus ciudadanos solo podían retirar $60 euros al día,
-            - este es un claro recordatorio de quién realmente controla tu dinero.
-        - En El Salvador, la remesas representan el 23% de su producto interno bruto (PIB).
-            - En el 2020 fueron casi $6 mil millones de dólares. Alrededor del 60% de ese dinero proviene de empresas de remesas y el 38% de instituciones bancarias.
-            - Empresas como Western Union tienen tarifas elevadas,
-                - especialmente para montos inferiores a $1000 USD.
-- **Comisiones o cargos**
+- **Polítiquess bancàries**
+    - Els bancs tenen límits sobre la quantitat d'efectiu que es pot retirar d'un compte o tenen un màxim que es pot transferir..
+    - La majoria d'aquestes transaccions tenen comissions.
+        - Grecia, després de la crisi de 2015, els seus ciutadans només podien retirar $60 euros al día,
+            - aquest és un clar recordatori de qui realment controla els teus diners.
+        - A El Salvador, les remeses representen el 23% del seu producte interior brut (PIB).
+            - El 2020 van ser gairebé $6 mil millons de dòlars. Al voltant del 60% de d'aquest diners provenen d'empreses de remeses i el 38% d'institucions bancàries.
+            - Empreses como Western Union tenen tarifes elevades,
+                - especialment per a quantitats inferiors a $1000 USD.
+- **Comissions o càrrecs**
     
-    Solo enriquecen a las instituciones bancarias e
+    Només enriqueixen les institucions bancàries i 
     
-    Incrementan la brecha entre ricos y pobres
+    Incrementen la distància entre rics i pobres.
     
-    - Para montos pequeños, como de diez dólares,
-        - las comisiones pueden llegar a ser  hasta de más de tres dólares, o el 33%.
-    - Para cien dólares,
-        - las tarifas oscilan entre el 12% y el 15%.
+    - Per a quantitats petites, com de deu dòlars,
+        - les comissions poden arribar a ser fins a més de tres dòlars, o el 33%.
+    - Per a cent dòlars,
+        - les tarifes oscil·len entre el 12% y el 15%.
     
-- **Horario**
+- **Horari**
     
-    Para enviar/recibir una remesa:
+    Per enviar/rebre una remesa:
     
-    - tanto el remitente como el destinatario deben acudir a la sucursal más cercana
-        - durante horario laboral, por supuesto
-- **Seguridad**
+    - Tant el remitent com el destinatari han d'anar a la sucursal més propera
+        - durant horari laboral.
+- **Seguretat**
     
-    Acudir a las oficinas de Western Union representa riesgos adicionales, 
+    Anar a les oficines de Western Union representa riscs addicionals. 
     
-    - las personas deben llevar su dinero en efectivo,
-        - aumentando las posibilidades de ser robados.
-    - Si los servidores centralizados fallan (lo que pasa frecuentemente),
-        - se podrían negar el acceso a los fondos de cualquier cliente.
+    - Les persones han de portar els seus diners en efectiu,
+        - augmentant les possibilitats de ser robats.
+    - Si els servidors centralitzats fallen (passa sovint),
+        - es podrien negar l'accés als fons de qualsevol client.
     
 
-### Centralización vs. Decentralización
+### Centralització vs. Decentralització:
 
-La centralización de las economías modernas produce:
+La centralització de les economies modernes produeix:
 
-- censura, abuso de poder, corrupción, desigualdad de oportunidades, desigualdad de riqueza, y fuentes únicas de fallos.
+- censura, abus de poder, corrupció, desigualtat d'oportunitats, desigualtat de riqueza, i fonts úniques d'errors.
 
-Los bancos operan por medio de  servidores centralizados, 
+Els bancs operen per mitjà de servidors centralitzats, 
 
-- tienen acceso todas las actividades financieras de sus usuarios.
+- Tenen accés a totes les activitats financeres dels seus usuaris.
 
-Qué saben los bancos de sus clientes?
+Qué saben els bancs dels seus clients?
 
-- cuánto te pagan,
-- en qué gastas tu dinero,
-- a quién le mandas dinero
-- y todo lo relacionado con tu cuenta bancaria.
+- Quant et paguen,
+- En què gastes els teus diners,
+- A qui li envies diners.
+- I tot allò relacionat amb el teu compte bancari.
 
-**Características de un sistema centralizado**
-1. Tienes que confiar que la organización centralizada mantendrá tus datos seguros
-2. Tienen completo control del sistema y de tus datos
-3. Si los servidores principales se ven comprometidos, tus datos están en riesgo. 
+**Característiques d'un sistema centralitzat:**
+1. Has de confiar que la organizació centralitzada mantindrà les teves dades segures.
+2. Tenen un complet control del sistema i de les teves dades.
+3. Si els servidors principals es veuen compromesos, les teves dades estan en risc. 
 
-Las divisas digitales de los bancos centrales son la continuación del sistema actual pero de forma digital. Es decir: mutables, censurables, cerradas, centralizadas, exclusivas, y vigilantes.
+Les divises digitals dels bancs centrals són la continuació del sistema actual però de manera digital. És a dir: mutables, censurables, tancades, centralitzades, exclusives i vigilants.
 
-**Cómo contrarrestamos estos fenómenos, causados por malas políticas gubernamentales?**
+**Com contrarestem aquests fenòmens, causats per males polítiques governamentals?**
 
 
-- **Características de un sistema descentralizado.** Se describe cómo un sistema de **igual a igual** o de P2P porque:
-    1. Las personas no tienen que identificarse para interactuar y estar interconectados entre sí a través de internet. 
-    2. Cada quien es responsable de su propio dispositivo pero presta y comparte sus recursos.
-    3. Si hay un ataque a la red, los hackers tendrían que tener control de la mayoría de computadores — esto es casi imposible.
-    4. En caso de que hubiera un error en un servidor, el resto no se vería afectado.
-    5. Logra una sociedad más justa -quita el control a las corporaciones poderosas.
+- **Característiques d'un sistema descentralitzat.** Es descriu com un sistema de **igual a igual** o de P2P perquè:
+    1. Les persones no s'han d'identificar per interactuar i estar interconnectats entre si a través d'internet. 
+    2. Cadascú és responsable del seu propi dispositiu però presta i compartiex els seus recursos.
+    3. Si hi ha un atac a la xarxa, els hackers haurien de tenir control de la majoria de computadors - això és gairebé impossible.
+    4. En cas que hi hagués un error en un servidor, la resta no es veurien afectats.
+    5. Aconsegueix una societat més justa - treu el control a les corporacions poderoses.
 
-### **Conclusión**
+### **Conclusió:**
 
-Discusión en clase: Cuatro fenómenos globales que suceden hoy, gracias a la centralización:
+Discussió a classe: Quatre fenòmesn globals que succeeixen avui, gràcies a la centralització:
 
-- - La pérdida de poder adquisitivo
-- - La restricción de la transferencia de valor
-- - La pérdida de privacidad
-- - Centralización financiera
+- - La pèrdua de poder adquisitiu.
+- - La restricció de la transferència de valor.
+- - La pèrdua de privacitat.
+- - Centralització financera.
 
-Preguntémonos de nuevo, ¿habrá solución?
+Preguntem-nos de nou, hi haurà solució als problemes dels diners actuals?
