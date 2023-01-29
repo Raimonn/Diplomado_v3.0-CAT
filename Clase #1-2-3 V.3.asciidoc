@@ -221,217 +221,217 @@ Els diners poden pendre moltes formes. Com més caracterísiques d'aquestes demo
 Uns diners útils han de ser portàbles, divisibles, duradors, escassos, reconeixibles i fungibles.
 
 **Exercici: Les panses son bons diners?** 
-% Fi de traducció%
-# Clase #**2**
 
-# Historia, Evolución y Devaluación del Dinero
+# Tema #**2**
 
-# Historia del Dinero
+# Història, Evolució i Devaluació dels diners:
 
-El dinero es algo que usamos a diario, pero rara vez paramos a pensar... ¿de dónde vino? ¿cómo transaban nuestros ancestros? 
+# Història desl diners:
 
-- Lo que ha constituido dinero, ha variado a través del tiempo y de un lugar a otro.
-- El dinero es tan antiguo como el lenguaje
-    - Es simplemente una forma de comunicación, una tecnología.
-- No existe un acuerdo universal sobre lo que realmente es.
-- En principio, no necesitaríamos un activo especial como un billete para reconocer a quién se le deben bienes y/o servicios.
-    - Cualquier persona podría tener su propio libro contable.
-    - Nuestros ancestros transaban de esta forma y/o a través del trueque sin necesidad de bancos o dinero convencional.
+Els diners són una cosa que fem servir diàriament, però poque vegades parem a pensar ... d'on van venir? Com transaccionaven els nostres avantpassats? 
 
-**Volvamos al pasado: El Trueque**
+- El que han estat els diners ha variat a través del temps i d'un lloc a un altre.
+- Els diners són tan antics com el llenguatge.
+    - Són simplement una forma de comunicació, una eina.
+- No hi ha un acord universal sobre el que realment són.
+- En principi, no necessitaríem un actiu especial com un bitllet per reconèixer a qui se li deuen béns i/o serveis.
+    - Cualsevol persona podria tenir el seu propi llibre comptable.
+    - Els nostres avantpassats transaccionaven d'aquesta manera i/o a mitjançant l'intercanvi sense necessitat de bancs o diners convencionals.
 
-Para producir el trueque debe existir una **doble coincidencia de necesidades**. 
+**Tornem al passat: L'intercanvi.**
 
-- Una persona que quiere intercambiar algo necesita encontrar un socio comercial que tenga lo que quiere y quiera lo que tiene.
-- Este medio de intercambio de bienes y servicios requiere mucho tiempo, restringe la actividad económica y limita la especialización.
+Per a produir l'intercanvi ha d'existir una **doble coincidència de necessitats**. 
+
+- Una persona que vol intercanviar alguna cosa necessita trobar un soci comercial que tingui allò que vol i vulgui el que ell té.
+- Aquest mitjà d'intercanvi de béns i serveis requereix molt temps, restringeix l'activitat econòmica i limita l'especialització.
 - El uso del dinero alivia estos problemas.
 
-## Actividad de clase: Juego del Trueque
+## Activitat de calsse: Joc de l'intercanvi.
 
-Seguir instrucciones del profesor para la actividad a realizar.
+Seguiu les instruccions del professor per a l'activitat següent.
 
-### Juego del Trueque: Análisis
+### Joc de l'intercnvi: Anàlisi
 
-1. **¿Qué es el trueque?**
+1. **Què és l'intercanvi?**
     
      __________________________________________________________________________
     
-2. **¿Cuáles son los problemas con el trueque?** 
+2. **Quins són els principals problemes de l'intercanvi?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-3. **¿Qué es el dinero mercancía?** 
+3. **Què són els diners mercaderia?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-4. **¿Qué problemas surgen cuando se utiliza el dinero mercancía?** 
+4. **Quins problemes sorgeixen quean s'utilitzen els diners mercaderies?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-5. **¿Qué es el dinero?** 
+5. **Què són els diners?** 
     
     ___________________________________________________________________________
     
-6. **¿Por qué la gente está dispuesta a aceptar dinero?** 
+6. **Per què la gent està disposada a acceptar diners?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
 
-Veamos el video:
+Visualitzem el vídeo:
 
 https://www.youtube.com/watch?v=zcYw8a4RJC4
 
-Recurso: Economía desde Cero, *Dinero*, Canal Encuentro, Argentina
+Recurs: "Economía desde Cero", *Els diners*, "Canal Encuentro", Argentina
 
 
-- El dinero ha evolucionado a lo largo de la historia, enfrentando desafíos y cambios de necesidades…
-    - Normalmente, se eligió la forma de dinero que ofrecía las características superiores.
-    - Pero desde que se empezaron a recortar  las monedas y la transición de metales preciosos a  metales respaldados por papel…
-        - pasamos de una selección natural de la forma de dinero con mejor rendimiento,
-        - a una de facilidad de uso, mayor portabilidad y divisibilidad.
-    - Hubo un cambio hacia la centralización.
+- Els diners han evolucionat al llarg de la història, enfrontant desafiaments i canvis de necessitats…
+    - Normalmente, es va triar la forma de diners que oferia les característiques superiors.
+    - Però des que es van començar a retallar les monedes i la transició de metalls preciosos a metalls recolzats per paper…
+        - Vam passar d'una selecció natural de la forma de diners amb millor rendiment,
+        - a una de facilitat d'ús, major portabilitat i divisibilitat.
+    - Hi va haver un canvi cap a la centralització.
     
-    ### Cambio Repentino al Fiat
+    ### Canvi ràpid al Fiat:
     
-    La época industrial marcó el inicio de la centralización:
+    L'època industrial va marcar l'inici de la centralització:
     
-    - El objetivo era distribuir correctamente los bienes producidos
-        - Se crearon los Bancos Centrales
-        - Nació el sistema de tarjetas de crédito y débito
+    - L'objectiu era distribuir correctament els béns produïts.
+        - Es van crear els Bancs Centrals.
+        - Va néixer el sistema de targetes de crèdit i dèbit.
     
-    Cuando el dinero se centraliza, pueden ocurrir problemas profundos. 
+    Quan els diners es centralitzen, poden passar greus problemes: 
     
-    - Los gobierno monitorean de cerca la actividad económica de sus ciudadanos
-    - El abuso de poder puede llevar a
-        - estímulos económicos e intervenciones gubernamentales
-        - explosión de deuda y consumo irresponsable
-            - Aumento en la desigualdad de riqueza
+    - Els  governs monitoritzen de prop l'activitat econòmica dels seus ciutadans.
+    - L'abús de poder pot portar a:
+        - Estímuls econòmics i intervencions governamentals.
+        - Explosió del deute i consum irresponsable.
+            - Augment en la desigualtat de la riquesa.
     
-    - Hasta 1971, se usaba dinero representativo: medio de intercambio y reserva de valor.
-    - Nos alejamos del dinero sólido hacia un mundo basado en la deuda
-        - Richard Nixon, eliminó la libre convertibilidad del oro por el dinero
-        - Pasamos al experimento actual, que es el dinero **fiat**.
-        - El dinero moderno es por decreto  y no por consenso.
-            - **Fiat** viene del latín y significa por decreto: es elegido y establecido por ley
+    - Fins al 1971, es feien servir els diners representatius: mitjà d'intercanvi i reserva de valor.
+    - A partir de 1971, ens allunyem dels diners sòlids cap a un món basat en el deute.
+        - Richard Nixon, va eliminar la lliure convertibilitat de l'or pels diners.
+        - Passem a l'experiment actual, que són els diners **fiat**.
+        - Els diners moderns són per decret i no per consens.
+            - **Fiat** ve del llatí i significa per decret: és elegit i establert per llei.
             
 
-> “Aquello que funcionó ayer, no necesariamente funcionará hoy.” Jordan Peterson
+> “Allò que va funcionar ahir, no necessàriament funcionarà avui.” Jordan Peterson
 
 
-**Los Bancos Centrales**
+**Els Bancs Centrals**
 
-- **El objetivo y función del Banco Central:**
-    - Controla la política monetaria del país con el fin de garantizar estabilidad
-    - Su función: Ser el banquero de los bancos.
-    - Su trabajo principal: manipular la oferta del dinero en circulación
-        - **Controlar la inflación y maximizar el empleo a con políticas económicas y financieras**
-    - El Banco Central de los EEUU se llama La Reserva Federal.
+- **L'objectiu i la funció del Banc Central:**
+    - Controla la política monetària del país per tal de garantir l'estabilitat.
+    - La seva funció: ser el banquer dels bancs.
+    - El seu treball principal: manipular l'oferta dels diners en circulació.
+        - Controlar la inflació i maximitzar l'ocupació amb polítiques econòmiques i financeres.
+    - El Banco Central del EUA es diu La Reserva Federal.
     
-    - ¿Quién define y quién se beneficia de estos objetivos?
-        - Los grandes bancos -pueden influenciar las políticas federales, e incluso globales.
-    - Cómo  altera la oferta monetaria la Reserva Federal?
-        - A través del sistema bancario **de reserva fraccionaria**,
-        - Los Bancos en EEUU sólo mantienen un 10% de sus depósitos en sus reservas .
-        - La banca de reserva fraccionaria resulta en un m**ultiplicador bancario**
-        - Más de dos personas usan el mismo dinero a la vez en la economía de un país .
+    - Qui defineix i qui es beneficia d'aquests objectius?
+        - Els grans bancs -poden influenciar les polítiques federals, i fins i tot globals.
+    - Com altera l'oferta monetària la Reserva Federal?
+        - A través del sistema bancari **de reserva fraccionària**,
+        - Els bancs de EEUU només mantenen un 10% dels dipòsits a les seves reserves.
+        - La banca de reserva fraccionària resulta ser un **multiplicador bancari**
+        - Més de dues persones fan servir els mateixos diners alhora en l'economia d'un país.
             
            
-            💡 Los bancos tienen la obligación de mantener un cierto porcentaje de todos los depósitos en el banco.Reducir ese porcentaje significa que puede circular más dinero, y aumentarlo significa que circula menos dinero.
+            💡 Els bancs tenen l'obligació de mantenir un cert percentatge de tots els dipòsits al banc. Reduir aquest percentatge significa que poden circular més diners, i augmentar-lo significa que circulen menys diners.
             
            
             
         
-    - ¿Qué problemas puede provocar la banca de **reserva fraccionaria?**
-        - Los bancos «piden prestado y prestan a largo plazo».
-            - El retiro de depósitos excede las reservas de efectivo.
-            - Los bancos incurren grandes pérdidas
-            - En los peores de los casos se produce una corrida bancaria.
-        - Los cambios en las tasas de interés o el costo del capital afectan el riesgo.
-            - + dinero en circulación…préstamos más baratos y menos exigentes.
+    - ¿Quins problemes pot provocar la banca de reserva fraccionària?**
+        - Els bnacs «demanen prestat i presten a llarg termini».
+            - La retirada de dipòsits excedeix les reserves d'efectiu.
+            - Els bancs incorren grans pèrdues.
+            - En el pitjor dels cassos es produeix pànic bancari (fugida de dipòsits).
+        - Els canvis en les taxes d'interès o el cost del capital afecten el risc.
+            - + diners en circulació …préstecs més barats i menys exigents.
         
-    - Operaciones de mercado abierto (para aumentar o disminuir el dinero en circulación)
-        - El gobierno compra o vende títulos monetarios (deuda de alta liquidez).
-            - Si quieren aumentarlo: compran bonos de la tesorería.
-            - Si quieren disminuirlo: venden bonos de la tesorería
+    - Operacions de mercat obert (per augmentar o disminuir les diners en circulació).
+        - El govern compra o ven títols monetaris (deute d'alta liquiditat).
+            - Si volen augmentar-ho: compren bons de la tesoreria.
+            - Si volen disminuir-ho: venden bons de la tesoreria
     
 
-# Actividad Reserva Fraccionaria
+# Activitat Reserva Fraccionària
 
-Siga las instrucciones del maestro
+Seguiu les instruccions del professor per a la següent activitat: 
 
 
-# Clase #*3*
+# Tema #*3*
 
-## Los Efectos **del Dinero Fiat y la Centralización**
+## Els efectes **dels Diners Fiat i la Centralització**
 
-## Actividad de clase - ¡Subasta!
+## Activitat de classe - Subasta!
 
-Siga las instrucciones del maestro para la siguiente actividad.
+Seguiu les instruccions del professor per a la següent activitat.
 
-### Inflación
+### Inflació:
 
-De manera introductoria, analizaremos el siguiente video sobre qué es la inflación:
+De manera introductòria, analitzarem el vídeo següent sobre què és la inflació:
 
 https://youtu.be/gkDQGribCfc
 
-Recurso:*Causas de la Inflación*, Video,Banco de la República, Colombia
+Recurs:*"Causas de la Inflación"*, vídeo, Banc de la República de Colòmbia.
 
-- **Definición**:
-    - Originalmente el término se usaba para indicar:
-        - la pérdida de valor de una moneda,
-        - la devaluación de su poder adquisitivo provocada por el aumento de su oferta.
-    - Esta perdida de valor normalmente produce, en términos de dicha moneda:
-        - un aumento general y sostenido en el precio de todos los bienes y servicios
-    - El término “inflación” pasó a utilizarse también para indicar el aumento de precios
-        - independientemente de la causa.
+- **Definició**:
+    - Originalment el terme s'utilitzava per indicar: 
+        - La pèrdua de valor d'una moneda.
+        - La devaluació del poder adquisitiu provocada per l'augment de la seva oferta.
+    - Aqusta pèrdua de valor normalment produeix, en termes d'aquesta moneda:
+        - Un augment general i sostingut en el preu de tos els béns i serveis.
+    - El terme "inflació" també va passar a utilitzar-se per indicar l'augment de preus
+        - independentment de la causa.
     
-     **Porqué nos importa?**
+     **Per què ens importa?**
     
-    - Cuando más dinero persigue la misma cantidad de bienes:
-        - los precios suben.
-    - Si los precios de los productos aumentan más rápido que los sueldos y salarios:
-        - las personas se empobrecen. 
+    - Quan més més diners persegueixen la mateixa quantitat de béns:
+        - Els preus pugen.
+    - Si els preus dels productes augmenten més ràpid que els sous i salaris:
+        - Les persones empobreixen. 
         
-        **McDonald’s en 1970:**
+        **Menú del McDonald’s al 1970:**
     
   
     
-        **McDonald’s en el 2022:**
+        **Menú del McDonald’s al 2022:**
     
     
     
 
-**¿Que nos enseñan los economistas modernos?**
+**Que ens ensenyen els economistes moderns?**
 
-- Necesitamos estimular la inflación para poder administrar eficazmente una nación.
-- Si no incentivamos el gasto y la inversión (a través de la devaluación de la moneda):
-    - arriesgamos a una menor demanda,
-    - desatando una producción disminuida y
-    - llevando en el peor caso a una economía estancada.
-    - Todo esto implica que es ****difícil, imposible o hasta no recommendable ahorrar.
-- La situación actual nos incentiva a gastar. Es una teoría contraproducente.
-    - No pensamos en un futuro más allá que un par de días, semanas o meses
-    - Deberíamos poder prepararnos para el futuro de nuestros nietos
-    - La inflación simplemente no nos permite tener disciplina financiera.
-- Nuestras decisiones tienen consecuencias.
-    - Esto se conoce como el **“costo de oportunidad”**
+- Necessitem estimular la inflació per poder administrar eficaçment una nació.
+- Si no incentivem la despesa i la inversió (a través de la devaluació de la moneda):
+    - Ens arrisquem a una menor demanda.
+    - Reduïum la producció.
+    - Portant en el ptijor cas a una economia estancada.
+    - Tot això implica que és ****difícil, impossible o fins i tot no recomanable estalviar.
+- La situació actual ens incentiva a gastar. És una teoria contraproduent.
+    - No pensem en un futur més enllà que un parell de dies, setmanes o mesos.
+    - Hauríem de poder preparar-nos per al futur dels nostres néts.
+    - La inflació no ens permet tenir disciplina financera.
+- Les nostres decisions tenen conseqüències.
+    - Esto se conoce como elAixò es coneix com el **“cost d'oportunitat”**
     
-    - La inflación fomenta una **Preferencia Temporal Alta,** lo que significa que preferimos  $100 hoy en vez de $200 en dos años.
+    - La inflació fomenta una **Preferència Temporal Alta,** el que significa que preferim $100 avui en comptes de $200 en dos anys.
     
   
-    - Nuestro objetivo debería ser crear una **preferencia temporal baja.**
+    - El nostre objectiu hauria de ser crear una **preferència temporal baixa.**
     
    
     
-    Vemos las siguientes tres razones por las que ocurre inflación:
+    Observem les tres raons seüents per les quals passa la inflació:
     
     https://youtu.be/_DpyCXNiY7E
     
-    Recurso: *Causas de la Inflación,* Video, Banco de la República, Colombia
+    Recurs: *"Causas de la Inflación",* Vídeo, Banc de la República de Colòmbia
     
-    1. **Inflación de costos o de oferta**
-    - Aumenta el precio de los insumos
-        - Causas:
+    1. **Inflaci de costs o d'oferta**
+    - Augmenta el precio de los insums.
+        - Causes:
             - Regulaciones gubernamentales, guerras, sequías, dificultades en la cadena de suministro y otras situaciones.
             - Alza en las tazas de impuestos incrementan el costo de las materias primas
             - Los trabajos especializados se vuelven más costosos
