@@ -1,6 +1,6 @@
 ### **TEMA #*4* - BITCOIN**
 
-**Per que es va crear Bitcoin?**
+**Per què es va crear Bitcoin?**
 
 L'atac a les Torres Bessones de Nova York, l'any 2001, va ser un cop duríssim per a l'economia mundial. Com a conseqüència, amb el suport del sector privat i l'objectiu de facilitar finançament hipotecari a les persones d'ingressos més baixos, els EUA van començar a baixar les taxes d'interès ràpidament a nivells mai vistos. De manera que es va donar crèdits a persones sense ingressos, actius, ni ocupació. Aquest tipus d'hipoteques va ser batejada com a "hipoteques subprime", i per descomptat, tenien alta probabilitat d'impagament. Els efectes de la crisi es noten fins al dia d'avui. El seu esclat va tenir lloc el 15 de setembre del 2008, quan el banc d'inversió Lehman Brothers es va declarar en fallida. A partir d'aquell moment, els Estats Units van patir un col·lapse econòmic i després el va seguir la resta dels països desenvolupats. En conseqüència, dia a dia va créixer la desconfiança als bancs per la presa de riscos excessius i la poca regulació a la indústria.
 
@@ -49,25 +49,25 @@ https://bitcoin.org/files/bitcoin-paper/bitcoin_es.pdf
 - Fa referència a un article del diari "The Times" titulat "Canceller a la vora del segon rescat als bancs".
 - El Canceller britànic havia de decidir si injectar bilions de Lliures Esterlines a l'economia per tal de rescatar els bancs.
 
-Estos son otros datos básicos que sabemos sobre Satoshi, su Whitepaper y la creación de Bitcoin:
+Aquests són altres dades bàsiques que sabem sobre Satoshi, el seu Whitepaper i la creació de Bitcoin:
 
-- La primera transacción de bitcoins fue de Nakamoto a Hal Finney.
-- La última “señal de vida” de Satoshi fue con Gavin Andersen, desarrollador de software:
+- La primera transacció de bitcoins va ser de Nakamoto a Hal Finney.
+- L'últim “senyal de vida” de Satoshi va ser amb Gavin Andersen, desenvolupador de programari:
     
-    > “…paso a otras cosas,…en buenas manos con Gavin y todos.”
+    > “…passo a altres coses,…us deixo en bones mans amb Gavin i tots.”
     > 
-- En mensajes públicos, e incluso en mensajes privados que luego se publicaron, Nakamoto nunca habló de nada personal.  Todo se trataba de bitcoin y su **código**.
-- Muchas personas afirmaron ser Satoshi. Aún no sabemos quién es.
-- Se estima que Satoshi tiene aproximadamente 980,000 bitcoin.
+- En missatges públics, i fins i tot en missatges privats que després es van publicar, Nakamoto mai no va parlar de res personal. Tot es tractava de bitcoin i el seu **codi**.
+- Moltes persones van afirmar ser Satoshi. Però encara no sabem qui és.
+- S'estima que Satoshi té aproximadament 980.000 bitcoins.
 
-¿**Cuales dificultades enfrentó Satoshi?**
+**Quines dificultats es va enfrontar Satoshi?**
 
-- [ ]  ¿Podría alguien mandarle el mismo dinero a dos personas simultáneamente?
-- [ ]  En internet ¿quién puede confiar en quien está del otro lado?
-- [ ]  ¿Cómo sabemos si alguien tiene suficiente dinero en su cuenta (o en su monedero) para comprarle un producto a otro?
-- [ ]  ¿Cómo se asegura de que una red descentralizada pueda tomar decisiones correctas, incluso si algunos de los **nodos** (participantes conectados) en ella se vuelven deshonestos?
-- [ ]  ¿Podemos crear un sistema distribuido y confiable que no asuma automáticamente que los participantes van a actuar éticamente y trabajarán en interés del grupo?
-- [ ]  ¿Cómo sabemos que la persona que quiere recibir dinero a través de este sistema es quien dice ser?
+- [ ]  Podria algú enviar els mateixos diners a dues persones simultàniament?
+- [ ]  A internet, qui pot confiar en qui està a l'altra banda?
+- [ ]  Com sabem si algú té prou diners al seu compte ( o al seu moneder) per comprar-li un producte a un altre?
+- [ ]  Com s'assegura que una xarxa descentralitzada pugui prendre decisions correctes, fins i tot si alguns del **nodes** (participants conectats) es tornen deshonestos?
+- [ ]  Podem crear un sistema distribuït i fiable que no assumeixi automàticament que els participants actuaran èticament i treballaran en interès del grup?
+- [ ]  Com sabem que la persona que vol rebre diners a través d'aquest sistema és qui diu que és?
 
 ”**Problema del Doble Gasto” = "Problema de los Generales Bizantinos"**
 
