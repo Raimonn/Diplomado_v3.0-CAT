@@ -130,31 +130,32 @@ En el marc de les cadenes de blocs, cada General és un **node a la xarxa**.
     - Si una gran majoria de la **xarxa** és maliciosa, ,
         - el sistema es torna vulnerable.
 
-### *Introducción al Bitcoin*
+### *Introducció al Bitcoin*
 
-Comencemos con un video breve:
+Comencem amb un breu vídeo:
 
-¿Qué es Bitcoin y cómo funciona? https://youtu.be/S2HxMK7iO4c
+Què és el Bitcoin i com funciona? https://youtu.be/S2HxMK7iO4c
 
-¿Qué es Bitcoin? ¿Qué es bitcoin?…..
+Què és Bitcoin? Quès és bitcoin? …..
 
-Es muchas cosas…. 
+És moltes coses…. 
 
-- **Dinero**: Una moneda virtual e intangible que cumple las tres funciones del dinero tradicional: una unidad de cuenta, un depósito de valor y un medio de intercambio.
-- **Software**: Software que puede descargar y ejecutar en cualquier computador.
-    - Un **sistema de pago** sin un banco central o una autoridad única.
-- **Red**: Conjunto de personas y computadores trabajando a través del consenso para funcionar sin falla.
+- **Diners**: Una moneda virtual intangible que compleix les tres funcions dels diners tradicionals: unitat de compte, dipòsit de valor i mitjà d'intercanvi.
+- **Software**: Programari que es pot descarregar i executar en qualsevol ordinador.
+    - Un **sistema de pagament** sense un banc central o autoritat única.
+- **Xarxa**: Conjunt de persones i computadors treballant a través del consens per funcionar sense error.
     
     
-    - Cual es la diferencia entre Bitcoin y bitcoin?
-        - Bitcoin con ‘B’ se refiere a la **red** de computadores que trabaja con el mismo programa, mientras *bitcoin* con ‘b’ se refiere a el activo digital ($) que se maneja dentro de la red.  Dicho de otra forma, bitcoin es una unidad de la moneda virtual cifrada mediante criptografía, que nos sirve para intercambiar valor dentro de la red Bitcoin.
+    - Quina és la diferència entre Bitcoin i bitcoin?
+        - Bitcoin amb ‘B’ ens referim a la **xarxa** de computadors que treballa amb el mateix programa, mentre que *bitcoin* amb ‘b’ ens referim a l'actui digital ($) que s'utilitza dins la xarxa.  Dit d'una altra manera, bitcoin és una unitat de la moneda virtual xifrada mitjanánt criptografia, que ens serveix per intercanviar valor dins de la xarxa Bitcoin.
+        
     
-- Cual es su función principal?
-    - Permite la transferencia de pagos persona a persona (P2P), sin intermediarios, de forma económica, y sin barreras internacionales. Almacena valor.
-- Que avance tecnológico ha logrado? Porqué  revolucionará la banca?
-    - Impide que la gente pueda gastar el mismo dinero dos veces.
-    - Elimina la necesidad de una autoridad central para supervisar las transacciones.
-- Que lo hace valioso?
+- Quina és la seva funció principal?
+    - Permet la transferència de pagaments persona a persona (P2P), sense intermediaris, de manera econòmica, i sense barreres internacionals. Emmagatzema valor.
+- Quin avenç tecnològic ha aconseguit? Per què revolucionarà la banca?
+    - Impedeix que la gent pugui gastar els mateixos diners dues vegades.
+    - Elimina la necessitat d'una autoritat central per supervisar les transaccions.
+- Què el fa valuós?
     
     
 - Cual es la relación entre la cadena de bloques y Bitcoin?
@@ -162,77 +163,77 @@ Es muchas cosas….
     - Bitcoin es la única cadena de bloques que registra transacciones realizadas con la moneda bitcoin.
     
     
-- De qué  están hechos los *bitcoin*?
-    - De nada que se pueda tocar físicamente, como un billete.
-    - Son sólo cadenas de números y letras digitales
-    - Una identidad única ( tal cómo tu huella digital te da tu identidad).
-- Bitcoin es anónimo?
-    - No, es seudónimo. Las transacciones son visibles, accesibles y transparentes para todos
-    - Las personas se identifican no con nombre y apellido sino con cadenas de cadenas de letras y números
-- ¿Quién puede usar Bitcoin?
-    - A diferencia del sistema bancario tradicional, cualquier persona que tenga acceso al internet.
-- Cómo puedo conseguir bitcoin?
-    - Se **compra** en línea a través de  plataformas de intercambio o e**xchanges**.
-    - Se **crean nuevos** bitcoin a través de un proceso de trabajo llamado **minería.**
-- Cuales son las barreras de entrada a Bitcoin?
-    - Se necesita acceso a internet para poder hacer transacciones con BTC.
-    - Algunos países prohiben las entradas pero es imposible prohibir el intercambio.
-- En donde se almacenan los bitcoin?
-    - En un monedero con acceso a nuestras claves privadas o en un exchange.
-- Cómo puede tener valor una moneda que no existe en el mundo físico y que no está respaldada por nada, ni por nadie?
-    - El valor crece con confianza, escasez, utilidad y nivel de demanda, entre otros factores.
-- Es seguro el Bitcoin?
-    - El objetivo de la minería es desincentivar a los malos actores y dificultar comportamientos indeseados como el doble gasto o el spam.
-    - La criptografía protege la información de una manera muy segura. Se usan:
-        - claves públicas (similar al # de una cuenta bancaria pero único en cada transacción )
-        - y claves privadas (similar a un PIN secreto perteneciente a dicha cuenta bancaria)
-- Quien  y cómo  se asegura de que las transacciones se ejecuten sin fallas?
-    - A través de la los mineros y la minería.
-    - El objetivo es desincentivar a los malos actores y dificultar comportamientos indeseados.
-- Cuales son algunas de las ventajas de bitcoin frente al fiat?
-    - El precio del bitcoin es el mismo en todos los países del mundo.
-    - No existen fronteras.
-    - Su inflación es controlada y su emisión predefinida.
-    - Los gobiernos no tienen poder de decisión sobre su gobernanza.
+- De què estan fets els *bitcoin*?
+    - De res que es pugui tocar físicament, com un bitllet.
+    - Són només cadenes de números i lletres digitals.
+    - Una identitat única (tal com la teva empremta digital et dóna la teva identitat).
+- El Bitcoin és anònim?
+    - No, es pseudónim. Les transaccions són visibles, accessibles i transparents per a tothom.
+    - Les persones s'identifiquen no amb nom i cognom sión amb cadenes de lletres i numeros.
+- Qui pot fer servir el Bitcoin?
+    - A diferència del sistema bancari tradicional, qualsevol persona que tingui accés a internet.
+- Com puc aconseguir el bitcoin?
+    - Es **compra** en línia a través de plataformes d'intercanvio **exchanges**.
+    - Es **creen nouss** bitcoin a través d'un procés de treball anomenat **mineria.**
+- Quines són les barreres d'entrada a Bitcoin?
+    - Cal accés a internet per poder fer transaccions amb BTC.
+    - Alguns països prohibeixen la compra o venda, però és impossible prohibir l'intercanvi.
+- On s'emmagatzemen els bitcoin?
+    -En un moneder amb accés a les nostres claus privades o en un exchange.
+- Com pot tenir valor una moneda que no existeix al món físic i que no està recolzada per res, ni per ningú?
+    - El valor creix amb confiança, escassetat, utilitat i nivell de demanda entre d'altres factors.
+    -És segur el Bitcoin?
+    - L'ojectiu de la mineria és desincentivar els mals actors i dificultar comportaments indesitjats com la doble despesa o el correu brossa.
+    - La criptografia protegeix la informació de manera molt segura. Es fan servir:
+        - Claus públiques (similar al número d'un compte bancari però únic en cada transacció).
+        - Claus privades (similar a un PIN secret pertanyent a aquest compte bancari).
+- Qui i com s'assegura que les transaccions s'executin sense errors?
+    - A través dels miners i la mineria.
+    - L'objectiu és desincentivar els mals actors i dificultar comportaments indesitjats.
+- Quins són alguns dels avantatges del bitcoin davant del fiat?
+    - El preu del bitcoin és el mateix a tots els països del món.
+    - No hi ha fronteres.
+    - La inflació és controlada i la seva emissió predefinida.
+    - Els governs no tenen poder de decisió sobre la seva governança.
     
    
 
 
 
-Diferencias entre Bitcoin y Fiat 
+Diferències entre Bitcoin i Fiat: 
 
-**Actividad: Completar 2.c (la columna de bitcoin)**
+**Activitat: Completar 2.c (la columna del bitcoin)**
 
-Ejercicio Práctico (continuación de [Es un Buen Activo Monetario?]
+Exercici pràctic (continuació de [És un Bon Actiu Monetari?]
 
-Si tuviste dificultades con el ejercicio anterior, repasa la tabla “Diferencias entre Bitcoin y Fiat”.
+Si heu tingut dificultats amb l'exercici anterior, repasseu la taula “Diferències entre Bitcoin i Fiat”.
 
-## **Los participantes de Bitcoin:**
+## **Els participants de Bitcoin:**
 
-Para entender cómo participa alguien o un sistema en la red Bitcoin, nos debemos preguntar
+Per entendre com participa algú o un sistema a la xarxa Bitcoin, ens hem de preguntar:
 
-- ¿Dicha persona o dicho computador puede ver solo las transacciones en las que participa?
-    - Tiene acceso a más información?
-- ¿Cuáles son las transacciones que puede realizar?
-- ¿Cuáles son los permisos tiene sobre la red?
-- ¿Cómo interactúa con la red?
-- ¿Tiene acceso a una copia de toda la cadena?
-
-
-1. **Mineros**: Equipos de computación especializados 
-    - Compiten en resolver rompecabezas matemáticos entre sí, para crear nuevos bitcoins.
-    - Confirman transacciones y mantienen la seguridad de la red.
-        - Similar a los empleados en un banco; se les paga por su trabajo
-2. **Exchanges o Intercambios**: Intercambian monedas fiat por bitcoin y otras criptomonedas.
-    - Ofrecen una manera de entrar y salir del mercado para aquellos que no son mineros.
-    - Similar a los bancos; ofrecen servicios a los usuarios
-3. **Monederos**: Aplicaciones usadas para almacenar, mandar y recibir bitcoin.
-    - Similar a las cuentas bancarias o las apps para transferir dinero por internet
-4. **Nodos**: Dispositivos conectados a una red digital que validan, transmiten, procesan y almacenan transacciones BTC. (Además de ser monederos, tienen muchas otras funciones)
-    - Constan de dos cosas: hardware  y software. (Similar a un móvil  y un app)
-        - El hardware es el material físico necesario para ejecutar el software.
-- **Desarrolladores**: Mantienen y proponen mejoras al código.
+- Aquesta persona o aquest computador pot veure només les transaccions en què participa?
+    - Té accés a més informació?
+- Quines són les transaccions que pot fer?
+- Quins són els permisos que té sobre la xarxa?
+- Com interactua amb la xarxa?
+- Té accés a una còpia de tota la cadena?
 
 
-Actividad: Si tenemos tiempo en clase, podemos acceder algunos exchanges?
+1. **Miners**: Equips de computació especialitzats: 
+    - Competeixen a resoldre trenaclosques matemàtics entre si, per crear nous bitcoins.
+    - Confirmen transaccions i mantenen la seguretat de la xarxa.
+        - Similar als empleats d'un banc, se'ls paga per fer la feina.
+2. **Exchanges o empresses d'intercanvi**: Intercanvien monedes fiat per bitcoin i altres criptomonedes.
+    - Ofereixen una manera d'entrar i sortir del mercat per a aquells que no són miners.
+    - Similar als bancs, ofereixen serveis als usuaris.
+3. **Moneders**: Apliacions utilitzades per emmagatzemar, enviar i rebre bitcoin.
+    - Similar als comptes bancaris o les aplicacions per transferir diners per internet.
+4. **Nodes**: Dispositius conectats a una xarxa digital que validen, transmeten, processen i emmagatzemen transaccions BTC. (A més de ser moneders, tenen moltes atres funcions).
+    - Consten de dues coses: maquinari (hardware) i programari (software). (Similar a un mòbil i una aplicació).
+        - El maquinari és el material físic necessari per executar el programari.
+- **Desenvolupadors** Mantenen i proposen millores al codi.
+
+
+Activitat: Si tenim temps a classe, podem accedir a alguns exchanges?
 
