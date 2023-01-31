@@ -69,37 +69,37 @@ Aquests són altres dades bàsiques que sabem sobre Satoshi, el seu Whitepaper i
 - [ ]  Podem crear un sistema distribuït i fiable que no assumeixi automàticament que els participants actuaran èticament i treballaran en interès del grup?
 - [ ]  Com sabem que la persona que vol rebre diners a través d'aquest sistema és qui diu que és?
 
-”**Problema del Doble Gasto” = "Problema de los Generales Bizantinos"**
+”**Problema de la Doble Despesa” = "Problema dels Generals Bizantins"**
 
-**¿Cual era el dilema de los Generales?**
+**Quin era el dilema dels Generals?**
 
-El problema de los Generales Bizantinos es una metáfora que narra la dificultad de transmitir información fiable sin la intervención de un coordinador central de confianza.
+El problema dels Generals Bizantins és una metàfora que narra la dificultat de transmetre informació fialbe sense la intervenció d'un coordinador central de confiança.
 
-Cuál es la alegoría?
+Quina és l'al·legoria?
 
-- [ ]  Hay un castillo en Persia, que está muy bien abastecido y fortificado.
-- [ ]  Los generales bizantinos han rodeado el castillo y planean lanzar un ataque.
-- [ ]  Dado que el ejército está tan disperso, no existe un control centralizado.
-- [ ]  Los generales se comunican entre ellos por medio de mensajeros.
-- [ ]  Las dos posibles órdenes son "atacar" y "retirarse".
-- [ ]  Deben ponerse de acuerdo para atacar al ejército persia, y hacerlo simultáneamente.
-- [ ]  Si cualquiera de ellos lo intentara por separado, perderán la batalla
-- [ ]  Si existe un traidor, podría conseguir que los leales no se pongan de acuerdo.
-    - [ ]  Por ejemplo, le podría decir a un general que ataque y al otro que se retire.
-- [ ]  Una mañana, un general  recibe el siguiente mensaje: "El ataque se producirá el Martes". ****No lleva la firma de ninguna autoridad central.
+- [ ]  Hi ha un castell a Pèrsia, que està molt ben proveït i fortificat.
+- [ ]  Els generals bizantins han envoltat el castell i planegen llançar un atac.
+- [ ]  Atès que l'exèrcit esà molt dispers, no hi ha un control centralitzat.
+- [ ]  Els generals es comuniquen entre ells per mitjà de missatgers.
+- [ ]  Les dues possibles ordres són "atacar" i "retirar-se".
+- [ ]  Han de posar-se d'acord per atacar l'exèrcit persa, i fer-ho simultàniament.
+- [ ]  Si qualsevol d'ells ho intenta per separat, perdran la batalla.
+- [ ]  Si existeix un traïdor, podria aconseguir que els lleials no es posin d'acord.
+    - [ ]  Per exemple, podria dir a un general que ataqui i a l'altre que es retiri.
+- [ ]  Un matí, un general rep el missatge següent: "L'atac es durà a terme dimarts". ****No porta la signatura de cap autoritat central.
 
 
- ¿Cómo puede el general  tener la certeza de que se trata de una orden verdadera y no de un engaño del enemigo transmitiendo información contraria a la estrategia del ejército?
+ Com pot tenir el general la certesa que es tracta d'una ordre veritable i no d'un engany de l'enemic transmetent informació contrària a l'estratègia de l'exèrcit?
 
-¿Que sucede si quien mandó el mensaje es traidor y planea traicionar al ejército?¿Qué pasa si el mismo general es corrupto y busca sembrar la discordia entre los otros generales?
+Què passa si qui va enviar el missatge és traïdor i planeja trair l'exèrcit? Què passa si el mateix general és corrupte i busca sembrar la discòrdia entre altres generals? 
 
-La solución a este problema se usó originalmente como método para evitar el spam por email. 
+La solució a aquest problema es va utilitzar originalment com a mètode per evitar el correu brossa per email. 
 
-¿**Que tiene que ver esto con Bitcoin?**
+**Que té a veure això amb el Bitcoin?**
 
-El problema de los generales bizantinos describe:
+El problema dels generals bizantins:
 
-- la dificultad que tienen los sistemas descentralizados para ponerse de acuerdo sobre una sola verdad.
+- La dificultat que tenen els sistemes descentralitzats per posar-se d'acord sobre una sola veritat..
 - Es el mismo que se tiene cuando se realiza una transferencia de dinero sin un intermediario confiable.
     - Se requiere entonces de una manera de verificar que el mensaje no ha sido modificado, lo cual no se había logrado hasta la aparición de Bitcoin con su mecanismo de **consenso**.
 - El uso de la criptografía es esencial en este proceso, pero que es **criptografía**?
