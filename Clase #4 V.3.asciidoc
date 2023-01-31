@@ -100,35 +100,35 @@ La solució a aquest problema es va utilitzar originalment com a mètode per evi
 El problema dels generals bizantins:
 
 - La dificultat que tenen els sistemes descentralitzats per posar-se d'acord sobre una sola veritat..
-- Es el mismo que se tiene cuando se realiza una transferencia de dinero sin un intermediario confiable.
-    - Se requiere entonces de una manera de verificar que el mensaje no ha sido modificado, lo cual no se había logrado hasta la aparición de Bitcoin con su mecanismo de **consenso**.
-- El uso de la criptografía es esencial en este proceso, pero que es **criptografía**?
-    - El arte de crear **mensajes codificados con claves secretas** con el objetivo de que no pueda ser descifrado salvo por la persona a quien está dirigido o que tenga la clave.
-- Bitcoin también utiliza un mecanismo de **prueba de trabajo** y una **cadena de bloques** para resolver el problema del “**doble gasto**”.
-- Bitcoin logra:
+- És el mateix que es té quan es fa una transferència de diners sense un intermediari fiable.
+    - Es necessita una manera de verificar que el missatge no ha estat modificat, la qual cosa no s'havia aconseguit fins a l'aparició del Bitcoin, amb el mecanisme de **consens**.
+- L'ús de la criptografia és essencial en aquest procés, però que és la **criptografia**?
+    - L'art de crear **missatges codificats amb claus secretes** camb l'objectiu que no pugui ser desxifrat excepte per la persona a qui està dirigit o que en tingui la clau.
+- El Bitcoin també ulititza un mecanisme de **prova de treball** i una **cadena de blocs** per resoldre el problema de la “**doble despesa*”.
+- El Bitcoin aconsegueix:
 
-1) transferir un activo digital (o dinero) a otro usuario a través de Internet,
+1) Transferir un actiu digital (o diners) a un altre usuari a través d'internet.
 
-2) de manera que solo el propietario pueda iniciar la operación,
+2) De manera que només el propietari pugui iniciar l'operació.
 
-3) únicamente el destinatario pueda recibirlo,
+3) Únicament el destinatari pot rebre'l.
 
-4) todo el mundo pueda validar la transferencia,
+4) Tothom pot validar la tranferència.
 
-5) y esta sea reconocida por todos los participantes,
+5) I aquesta sigui reconeguda per tots els participants.
 
-6) al igual que ser inmutable, o imposible de revertir  o borrar,
+6) Ser immutable, o impossible de revertir o esborrar.
 
-7)  todo ello realizado de manera totalmente **distribuida** y **descentralizada**.
+7) Tot això realitzat de manera totalment **distribuida** y **descentralitzada**.
 
-En el marco de las cadenas de bloques, cada General es un **nodo en la red**, 
+En el marc de les cadenes de blocs, cada General és un **node a la xarxa**.
 
-- Los nodos deben llegar a un convenio
-    - para determinar el estado actual del registro de contabilidad compartido.
-    - Si la mayoría de la **red** en la **blockchain** llega está de acuerdo,
-        - modifican los balances de cuentas por pagar y por cobrar de los usuarios,
-    - Si una gran mayoría de la red es maliciosa,
-        - el sistema es vulnerable a fallas.
+- Els nodes han d'arribar a un conveni:
+    - Per a determinar l'estat actual del registre de comptabilitat.
+    - Si la majoria de la **xarxa**  a la **cadena de blocs* arriba a un acord,
+        - es modifiquen els balanços de comptes per pagar i cobrear dels usuaris.
+    - Si una gran majoria de la **xarxa** és maliciosa, ,
+        - el sistema es torna vulnerable.
 
 ### *Introducción al Bitcoin*
 
