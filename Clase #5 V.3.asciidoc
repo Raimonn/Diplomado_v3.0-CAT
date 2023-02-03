@@ -1,52 +1,52 @@
-# Compra, Custodia y Movimiento de bitcoin
+# Compra, Custòdia i moviments dels bitcoins.
 
-### Rampas de Entrada y Salida
+### Vies d'entrada i sortida:
 
-- El primer paso para obtener bitcoin es comprarlo. Existen diversas alternativas:
-    - casas de intercambio, brokers, cajeros BTM’s, compañías fintech, tarjetas de regalo, etc.
-- Se intercambia dinero convencional (euros, dólares, etc.) por su equivalente en bitcoin.
-- Los servicios que proporcionan estos servicios son "rampas de acceso"
-- Los gobiernos pueden regular las rampas de entrada y salida
-    - Podrían prohibir que los bancos envíen dinero a/desde un intercambio de bitcoins.
-        - Lo cual afectaría nuestra capacidad de comprar y vender bitcoins pero,
-            - sería imposible **impedir enviar/recibir bitcoin.**
+- El primer pas per obtenir bitcoins és comprar-los. Hi ha diverses opcions:
+    - Cases d'intercanvi, brokers, caixers BTM, companyies fintech, targetes de regal, etc.
+- S'intercanvien diners convencionals (euros, dòlars, etc.) pel seu equivalent en bitcoin.
+- Els sereis que proporcionen aquestes funcions són "les vies d'accés"
+- Els governs poden regular les vies d'entrada i de sortida.
+    - Podrien prohibir que els bancs enviin diners a/des d'un intercanvi de bitcoins.
+        - Això afectaria la nostra capacitat de comprar i vendre bitcoins,
+            - però seria impossible **impedir enviar/rebre bitcoins.**
 
-## Tengo suficiente dinero para comprar bitcoin?
+## Tinc prou diners per comprar bitcoins?
 
-- BTC es la unidad común de la moneda bitcoin.
-- Puede utilizarse el símbolo ₿ igual que se utiliza USD  o $ para referirnos a bitcoin
-- bitcoin tiene un valor equivalente a todas las divisas del mundo en cualquier momento.
-- Ejemplo: 1 BTC = US$21,464, y 1₿= $95,288,229 COP (Pesos Colombianos) en este instante
-- Bitcoin es mucho más divisible que $1USD, $1USD=100 centavos. No existe 1/2 centavo. o 1/10 de centavo.
+- BTC és la unitat comuna de la moneda bitcoin.
+- Es pot utilitzar el símbol ₿ per a referir-nos a bitcoin igual que s'utilitza USD  o $ para referirnos al dòlar nord-americà.
+- El bitcoin té un valor equivalent a totes les divises del món en qualsevol moment.
+- Per exemple: 1 BTC = US$21,464, y 1₿= $95,288,229 COP (Pesos Colombians) en aquest instant.
+- El bitcoin és molt més divisible que $1USD, $1USD= 100 centims. No hi ha 1/2 cèntim o 1/10 de cèntim.
 - Un **Satoshi** (o Sat para abreviar), es la denominación más baja en la moneda bitcoin
-- 1 BTC = 100,000,000 sats ≈ 0.0003 USD (hoy)
-- Esto quiere decir que un bitcoin se puede dividir en cien millones de unidades.
+- 1 BTC = 100,000,000 sats ≈ 0.0003 USD (avui)
+- Això vol dir que un bitcoin es pot dividir en cent milions d'unitats.
 
-**Sesgo de unidad:**   Falsa creencia **….**
+**Biaix d'unitat:**   Falsa creença **….**
 
-- No se tiene que comprar 1 bitcoin entero; podemos comprar cuantos Sats queramos.
+- No és necessari comprar 1 bitcoin senser, podem comprar tants sats com vulguem.
 
-> ‘Si lo añades poco a lo poco y lo haces así con frecuencia, pronto llegará a ser mucho.” Hesíodo
+> ‘Si ho afegeixes poc a poc i ho fas amb freqüència, aviat arribarà a ser molt.” Hesíodo
 > 
 
-### Cómo se **custodia bitcoin?**
+### Com es guarden **Custodia bitcoin?**
 
-Cuando se compran Sats en un sitio web, 
+Quan es compren Sats en un lloc web, 
 
-- lo más probable es que los acrediten a un “monedero”  (o una billetera) virtual
-    - Similar a recibir un crédito en una cuenta bancaria cuando se transfiere dinero a ella
-- Puede parecer que la persona es dueña de su bitcoin,
-    - pero en realidad, el dinero está en posesión de un tercero.
+- El més probable és que els acreditin a un “moneder”  (o una cartera) virtual.
+    - Similar a rebre un crèdit en un compte bancari quan s'hi transfereixen diners.
+- Pot semblar que la persona és propietària dels seus bitcoins,
+    - però en realitat, els diners estan en possessió d'un tercer.
 
-Por lo tanto,
+Per tant,
 
-- Es importante entender los riesgos de invertir en bitcoin y comenzar por:
-    - conocer las mejores formas de custodiar bitcoin en el mercado
-    - Descubrir lo que es un “monedero”
-        - Cual ofrece la mejor seguridad
-        - Cómo escoger el más adecuado para los requisitos de cada quién
-    - Analizar las ventajas y desventajas de los monederos que seleccionemos
-        - Comprender que no existe un monedero ideal que satisfaga todas las necesidades
+- És important entendre els riscos d'invertir en bitcoin i començar per:
+    - Conèixer les millors formes de guardar els bitcoins.
+    - Descobrir què és un “moneder”
+        - Quin ofereix la millor seguretat
+        - Com escollir el més adequat per als requisits de cada persona.
+    - Analitzar els avantatges i desavantages dels moneders que seleccionem.
+        - Compendre que no hi ha un moneder ideal que satisfaci totes les necessitats.
     
 
 ## **Tipo de monederos & lightning**
