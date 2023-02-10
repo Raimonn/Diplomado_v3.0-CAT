@@ -49,35 +49,35 @@ Per tant,
         - Compendre que no hi ha un moneder ideal que satisfaci totes les necessitats.
     
 
-## **Tipo de monederos & lightning**
+## **Tipus de moneders & lightning**
 
-### Quién controla mi bitcoin?
+### Qui controla els meus bitcoins?
 
-- **Monederos auto-custodiales**:
+- **Moneders auto-custodia**:
 
-Beneficios:
+Beneficis:
 
-- Es la única forma de convertirse en el dueño absoluto del bitcoin que se ha comprado
-- No es necesario pedir permiso para usar el servicio.
-- No hay un proceso de aprobación de cuentas.
-- Cualquier persona del mundo puede descargar la aplicación y usarla de inmediato.
-    - Es como tener el dinero guardado en casa en lugar de confiárselo al banco
-        - La autocustodia de nuestro bitcoin es muy recomendable para evitar robos.
-- Ninguna corporación o gobierno tiene control o autoridad sobre las transacciones
-- Ningún tercero puede confiscar arbitrariamente lo que está en autocustodia.
-    - En momentos de estrés,  tenemos la seguridad que nuestro bitcoin está a salvo.
+- És l'única manera d'esdevenir l'amo absolut del bitcoin que s'ha comprat.
+- No cal demanar permís per utilitzar el servei.
+- No hi ha un procés d'aprovació de comptes.
+- Qualsevol persona del món pot descarregar l'aplicació i fer-la servir immediatament.
+     - És com tenir els diners guardats a casa en lloc de confiar-los al banc.
+         - L'autocustòdia dels nostres bitcoins és molt recomanable per evitar robatoris.
+- Cap corporació o govern no té control o autoritat sobre les teves transaccions.
+- Cap tercer no pot confiscar arbitràriament el que està en autocustòdia.
+     - En moments d'estrès, tenim la seguretat que el nostre bitcoin està fora de perill.
 
-Riesgos:
+Riscos:
 
-- No hay manera de recuperar los fondos en caso de perder las “claves privadas”.
-- Menos acceso a servicio al cliente
-- La responsabilidad no está distribuida
+- No hi ha manera de recuperar els fons en cas de perdre les “claus privades”.
+- Menys accés de servei al client.
+- La responsabilitat no està distribuïda.
 
-- **Monederos custodiales (un tercero guarda tu bitcoin)**:
-    - Los fondos (las claves privadas) están bajo el control del proveedor del monedero
-    - Beneficio: si pierdes u olvidas el acceso a tu cuenta, se recupera el dinero fácilmente
-    - Riesgo: siempre conectados al internet, lo que los hace más vulnerables.
-
+- **Moneders custodials**:
+     - Un tercer guarda els teus bitcoins.
+     - Els fons (les claus privades) estan sota el control del proveïdor del moneder.
+     - Benefici: si perds o oblides l'accés al teu compte, es recupera els diners fàcilment.
+     - Risc: sempre connectats a internet, cosa que els fa més vulnerables.
 
 ## Cual es el monedero mas conveniente?
 
